@@ -1,5 +1,3 @@
-# 🌍 **Hello World**
-
 ### **🌹 Tickets**
 
 [Bot](https://github.com/)
