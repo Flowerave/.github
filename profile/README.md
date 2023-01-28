@@ -1,12 +1,19 @@
-## Hello World 🌹
+# 🌍 **Hello World**
 
-**🎟 Tickets:**
+### **🌹 Tickets**
 
-🤖 [Bot](https://github.com/)</br>
-📄 [Documentation](https://github.com/)
+[Bot](https://github.com/)
 
-**🔐 VPN:**
+[Documentation](https://github.com/)
 
-🤖 [Bot](https://github.com/)</br>
-📄 [Documentation](https://github.com/)
+---
 
+### **🔐 VPN**
+
+[Bot](https://github.com/)
+
+[Documentation](https://github.com/)
+
+---
+
+**Strapi CMS: Flowerave.app**
